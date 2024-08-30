@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Mountain Landscape",
+    "description": "A serene view of mountains with a lake in the foreground.",
+    "image": "https://picsum.photos/id/1018/800/600"
+  },
+  {
+    "id": 2,
+    "name": "Urban Cityscape",
+    "description": "A bustling city skyline at night with bright lights.",
+    "image": "https://picsum.photos/id/1039/800/600"
+  },
+  {
+    "id": 3,
+    "name": "Tropical Beach",
+    "description": "A pristine beach with crystal clear water and palm trees.",
+    "image": "https://picsum.photos/id/1011/800/600"
+  },
+  {
+    "id": 4,
+    "name": "Forest Trail",
+    "description": "A winding path through a lush green forest.",
+    "image": "https://picsum.photos/id/1043/800/600"
+  },
+  {
+    "id": 5,
+    "name": "Desert Sunset",
+    "description": "A breathtaking sunset over sand dunes in the desert.",
+    "image": "https://picsum.photos/id/1016/800/600"
+  },
+  {
+    "id": 6,
+    "name": "Snowy Mountains",
+    "description": "Snow-capped mountain peaks against a clear blue sky.",
+    "image": "https://picsum.photos/id/1036/800/600"
+  },
+  {
+    "id": 7,
+    "name": "Autumn Forest",
+    "description": "A colorful forest with trees in autumn foliage.",
+    "image": "https://picsum.photos/id/1043/800/600"
+  }
+]
